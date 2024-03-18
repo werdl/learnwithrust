@@ -1,0 +1,2 @@
+# Variables
+Variables are a named RAM location that holds a value, with one of the data types that we learned about in the [previous chapter](data_types.md). They are used to store data that can change while the program is running.
