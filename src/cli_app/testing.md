@@ -7,7 +7,7 @@ Here's an example of a unit test for a simple function:
 
 ```rust
 fn add(a: i32, b: i32) -> i32 {
-    a + b
+    a + b // returns, as there is no semicolon (meaning it is an expression, the last expression in a function is returned if one is provided)
 }
 
 #[cfg(test)]

@@ -25,3 +25,8 @@
     - [Testing](cli_app/testing.md)
     - [Documentation](cli_app/documentation.md)
     - [Bringing It All Together](cli_app/bringing_it_all_together.md)
+- [Advanced Syntax](advanced_syntax.md)
+    - [Traits](advanced_syntax/traits.md)
+    - [Lifetimes](advanced_syntax/lifetimes.md)
+    - [Concurrency](advanced_syntax/concurrency.md)
+    - [Unsafe Rust](advanced_syntax/unsafe_rust.md)
