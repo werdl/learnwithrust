@@ -30,3 +30,4 @@
     - [Lifetimes](advanced_syntax/lifetimes.md)
     - [Concurrency](advanced_syntax/concurrency.md)
     - [Unsafe Rust](advanced_syntax/unsafe_rust.md)
+    - [Unions](advanced_syntax/unions.md)
